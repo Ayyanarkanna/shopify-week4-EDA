@@ -11,7 +11,7 @@ Generate histogram and KDE plots for daily returns to check for normal vs. fat-t
 Produce a financial summary report detailing stock stability and high-volatility periods.
 
 
-#•Shopify Stock
+**•Shopify Stock**
 #•Shopify Stock closing
 #•Shopify Stock Volume
 #•Shopify Stock Moving
